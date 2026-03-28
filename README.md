@@ -11,7 +11,7 @@ Using Microsoft Azure we are going to create a Virtual Machines (VM's), Virtual 
 ## Environments and Technologies Used
 - Microsoft Azure
 - Remote Desktop
-- Feature 3
+
 
 Note
 - This example will use a previously created Microsoft Azure account, subscription, and resource group.
