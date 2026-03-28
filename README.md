@@ -30,7 +30,7 @@ Note
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+To begin, we will access the Microsoft Azure page, and navigate to virtual machines. This can be done either by the search bar at the top, or the drop down menu. Once there, select "Create".
 </p>
 <br />
 
