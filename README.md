@@ -68,18 +68,19 @@ Now you will select your resource group, and name your virtual machine. Pay clos
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1232" height="717" alt="image" src="https://github.com/user-attachments/assets/749edb4f-1e6e-4042-b3d0-d4c1ae86b01b" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Ensure your virtual machine is on the virtual network you created earlier.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="656" height="380" alt="image" src="https://github.com/user-attachments/assets/563503e6-0962-478b-a6ff-897532d7614d" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Repeat this series of steps at least one more time, or until you have achieved the number of virtual machines desired.
 </p>
 <br />
 
