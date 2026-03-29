@@ -76,7 +76,7 @@ Ensure your virtual machine is on the virtual network you created earlier. Click
 </p>
 <br />
 
-# Note: It is only necessary to connect to your VNET if you intend on using these VM's for Network excersises.
+
 
 <p>
 <img width="656" height="380" alt="image" src="https://github.com/user-attachments/assets/563503e6-0962-478b-a6ff-897532d7614d" />
