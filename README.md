@@ -72,9 +72,11 @@ Now you will select your resource group, and name your virtual machine. Pay clos
 
 </p>
 <p>
-Ensure your virtual machine is on the virtual network you created earlier. Click "Review + Create" followed by "Create".
+Ensure your virtual machine is on the virtual network you created earlier. Click "Review + Create" followed by "Create". 
 </p>
 <br />
+
+# Note: It is only necessary to connect to your VNET if you intend on using these VM's for Network excersises.
 
 <p>
 <img width="656" height="380" alt="image" src="https://github.com/user-attachments/assets/563503e6-0962-478b-a6ff-897532d7614d" />
