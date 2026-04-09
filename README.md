@@ -1,3 +1,117 @@
+# IT Help Desk Portfolio – Justin Sanchez
+
+## Overview
+This portfolio showcases hands-on IT labs simulating real-world help desk and system administration tasks. It demonstrates practical experience with Active Directory, Microsoft Azure, ticketing systems, and troubleshooting common user and network issues.
+
+I built these labs to develop the skills required for an entry-level IT Help Desk role, focusing on user support, system configuration, and issue resolution.
+
+---
+
+## Technical Skills Demonstrated
+- Active Directory (User & Group Management)
+- Microsoft Azure (Virtual Machines, Network Security Groups)
+- Windows 10/11 Support
+- Remote Desktop
+- DNS Configuration & Troubleshooting
+- File Sharing & Permissions
+- Ticketing Systems (osTicket)
+- IT Troubleshooting Methodologies
+
+---
+
+## Projects
+
+### Active Directory Lab
+**Objective:** Simulate user and account management in a business environment
+
+**Key Tasks:**
+- Created and managed users, groups, and organizational units (OUs)
+- Assigned permissions and group policies
+- Simulated onboarding and account management tasks
+
+**Skills Gained:**
+- User administration
+- Access control
+- Directory structure organization
+
+---
+
+### Microsoft Azure Virtual Machine Lab
+**Objective:** Deploy and manage cloud-based systems
+
+**Key Tasks:**
+- Created and configured Windows virtual machines in Azure
+- Configured Network Security Groups (NSGs) for secure access
+- Connected via Remote Desktop
+
+**Skills Gained:**
+- Cloud infrastructure basics
+- Remote system access
+- Network security configuration
+
+---
+
+### Help Desk Ticketing System (osTicket)
+**Objective:** Simulate real-world IT support workflows
+
+**Key Tasks:**
+- Created and resolved help desk tickets
+- Documented issues and solutions
+- Practiced ticket prioritization and resolution workflows
+
+**Skills Gained:**
+- Ticket management
+- User support workflow
+- Documentation and communication
+
+---
+
+### DNS & File Sharing Lab
+**Objective:** Configure and troubleshoot network services
+
+**Key Tasks:**
+- Configured DNS records
+- Set up shared folders and permissions
+- Diagnosed and resolved access issues
+
+**Skills Gained:**
+- Network troubleshooting
+- Permission management
+- Resource accessibility
+
+---
+
+## Real-World Troubleshooting Scenarios
+
+### Scenario: User Unable to Access Shared Folder
+**Problem:** User could not access a shared network drive
+
+**Diagnosis:**
+- Checked user permissions
+- Verified group membership
+- Tested network connectivity
+
+**Resolution:**
+- Updated permissions and group assignments
+- Confirmed access restoration
+
+---
+
+### Scenario: Remote Desktop Connection Failure
+**Problem:** Unable to connect to Azure VM
+
+**Diagnosis:**
+- Checked Network Security Group rules
+- Verified VM status and IP address
+- Confirmed RDP settings
+
+**Resolution:**
+- Updated NSG rules to allow RDP traffic
+- Successfully established connection
+
+---
+
+## Repository Structure
 # Creating-Virtual-Machines-Virtual-Networks-and-Domain-Controllers
 
 
